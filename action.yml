@@ -1,4 +1,4 @@
-name: "foundry-toolchain"
+name: "foundry-zksync-toolchain"
 description: "Install Foundry"
 author: "Foundry"
 branding:
